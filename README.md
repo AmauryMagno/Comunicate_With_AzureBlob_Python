@@ -4,6 +4,9 @@
 
 Azure communication project between AzureDb and Azure Blob with python code language.
 
+![FrontEnd](docs/img/streamlitfront.png)
+![Diagrama](docs/img/diagrama.jpeg)
+
 ## Members
 * Amaury Vinícius Costa Magno
 

@@ -20,7 +20,7 @@ SQL_DATABASE = os.getenv("SQL_DATABASE")
 SQL_USER = os.getenv("SQL_USER")
 SQL_PASSWORD = os.getenv("SQL_PASSWORD")
 
-st.title("Casatro de Produtos")
+st.title("Cadastro de Produtos")
 
 # Formulário de cadastro de produtos
 product_name = st.text_input("Nome do Produto")
